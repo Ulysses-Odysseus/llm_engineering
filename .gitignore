@@ -192,3 +192,8 @@ nohup.out
 .vscode
 .cursor/
 scraper_cache/
+
+# Personal
+credentials.json
+week5/token.pickle
+week5/gmail_vector_db
