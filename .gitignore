@@ -197,3 +197,4 @@ scraper_cache/
 credentials.json
 week5/token.pickle
 week5/gmail_vector_db
+week6/charts
